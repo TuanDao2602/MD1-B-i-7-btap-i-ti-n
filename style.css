@@ -1,0 +1,34 @@
+#doitien{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    margin-left: 50px
+
+;
+}
+#doitien input{
+    width: 200px;
+    height: 100%;
+
+
+}
+#select1{
+    width: 200px;
+    height: 100%;
+    padding-left :10px;
+
+}#select2{
+     width: 200px;
+     height: 100%;
+     padding-left :30px;
+
+ }.div2{
+      margin-left: 50px;
+  }#convert{
+       color: white;
+       background-color: grey;
+       height: 100%;
+       width: 100px;
+       margin-left: 50px;
+       margin-top: 18px;
+   }
